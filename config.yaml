@@ -1,0 +1,16 @@
+# config.yaml
+
+BOT_TOKEN:
+  - "isi" 
+
+CHANNEL_ID:
+  - "isi"
+
+# --- PENGATURAN BARU ---
+MODE: "groq" # Ganti modenya menjadi groq
+GROQ_API_KEY: "isi" # Masukkan API Key Groq Anda di sini
+
+# --- PENGATURAN LAINNYA ---
+DELAY: 61 # Anda bisa menggunakan delay rendah (misal: 15-30 detik) karena kuota Groq besar
+REPLY: true
+DEL_AFTER: false
