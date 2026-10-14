@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Discord SelfBot - Modified for Groq API and Random Reply
-# Original By Viloid ( github.com/vsec7 )
+# Original By Pael ( github.com/pael666 )
 # Use At Your Own Risk
 # --- Groq Version ---
 
